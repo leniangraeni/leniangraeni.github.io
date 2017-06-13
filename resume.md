@@ -1,7 +1,8 @@
-Leni Angraeni
-#### Mahasiswa Ilmu Komputer IPB
-*Jl Pahlawan No. 170
-+62 812-4542-7211
+# Leni Angraeni
+Mahasiswa Ilmu Komputer IPB\
+\
+*Jl Pahlawan No. 170\
++62 812-4542-7211\
 leniangraeni98@gmail.com*
 ## Pendidikan
 ### Institut Pertanian Bogor
@@ -23,4 +24,4 @@ Juli 2004-Juni 2010
 
 ## Hobi
 Mendengarkan,
-Bermain
+bermain
